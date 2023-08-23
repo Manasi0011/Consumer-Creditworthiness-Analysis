@@ -13,5 +13,3 @@ The primary goal of this endeavor is to construct a machine learning model using
 * Power BI (DAX)
 * Python
 
-![Screenshot 2023-07-30 121949](https://github.com/Manasi0011/Consumer-Creditworthiness-Analysis/assets/73515081/49053a5c-82b2-4562-8056-4b143970cb89)
-
