@@ -1,4 +1,4 @@
-# Customer-Creditworthiness-Analysis
+# Consumer-Creditworthiness-Analysis
 
 This machine learning project falls within the banking domain and involves utilizing banking data to assess the status of loan approvals. Given the substantial influx of loan applications that banks receive daily, the higher management has recognized that this process consumes a significant amount of employees' time. Moreover, due to the high volume of loan applications, it has become challenging to effectively sift through and identify the suitable candidates for loan approval.
 
